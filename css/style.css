@@ -1,3 +1,15 @@
 html {
   scroll-behavior: smooth;
+  color: #fff;
+}
+
+body {
+  box-sizing: content-box;
+  background: url(../images/back.jpg)no-repeat;
+  background-size: 100%;
+  background-color: #3b3c40;
+}
+
+#spacer {
+  height: 900px;
 }
