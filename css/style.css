@@ -4,9 +4,8 @@ html {
 }
 
 body {
-  box-sizing: content-box;
-  background: url(../images/back.jpg)no-repeat;
-  background-size: 100%;
+  background:url(../images/back.jpg)no-repeat center center fixed;
+  background-size:cover;
   background-color: #3b3c40;
 }
 
